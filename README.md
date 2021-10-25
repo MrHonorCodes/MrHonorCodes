@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @MrHonorCodes
-- 👀 I’m interested in Games, Music, Keyboards, Basketball, a bit of Anime, and Marvel Movies!
+- 👀 I’m interested in Games, Music, Keyboards, Basketball, a bit of Anime, and Marvel/DC Movies/Comics!
 - 🌱 I’m currently learning Java, Python, HTML, CSS, and Javascript.
 - 💞️ I’m looking to collaborate on anything really, but i guess UI/UX projects.
-- 📫 How to reach me: email - danielamezquita5101@gmail.com
-  insta - dannyaqa 
+- 📫 How to reach me: email - mrhonoryt@gmail.com
+  ig - dannyaqa 
   twitter - MrHonor
   twitch - MrHonorLive
   youtube - MrHonorStudio
