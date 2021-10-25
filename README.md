@@ -2,11 +2,11 @@
 - 👀 I’m interested in Games, Music, Keyboards, Basketball, a bit of Anime, and Marvel/DC Movies/Comics!
 - 🌱 I’m currently learning Java, Python, HTML, CSS, and Javascript.
 - 💞️ I’m looking to collaborate on anything really, but i guess UI/UX projects.
-- 📫 How to reach me: email - mrhonoryt@gmail.com
-  ig - dannyaqa 
-  twitter - MrHonor
-  twitch - MrHonorLive
-  youtube - MrHonorStudio
+- 📫 How to reach me: email - mrhonoryt@gmail.com ,
+  ig - dannyaqa ,
+  twitter - MrHonor ,
+  twitch - MrHonorLive ,
+  youtube - MrHonorStudio 
   
 
 <!---
